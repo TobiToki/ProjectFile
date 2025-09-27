@@ -1,1 +1,1 @@
-this is a second example of using git via terminal commands
+this is a second example of pushing new changes via terminal commands
